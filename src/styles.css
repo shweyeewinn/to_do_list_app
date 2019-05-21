@@ -1,0 +1,12 @@
+body {
+  padding: 50px;
+  background-color: #66ccff;
+  font-family: 'Roboto', sans-serif;
+}
+
+#root {
+  display: flex;
+  justify-content: flex;
+  position: relative;
+  width: 100%;
+}
