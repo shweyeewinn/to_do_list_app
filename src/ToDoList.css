@@ -30,6 +30,7 @@
 }
 .toDoListMain .theList {
   padding: 0px;
+  max-width: 480px;
 }
 .toDoListMain .theList li {
   color: #333;
